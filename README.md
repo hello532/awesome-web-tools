@@ -93,6 +93,10 @@ Tools are selected for practical value, accessibility, and quality — not for p
 - [Loan EMI Calculator](https://dailytoolkit.app/tools/loan-emi-calculator) - Calculate loan EMI, total interest, and payment schedule.
 - [Loan / Mortgage Calculator](https://dailytoolkit.app/tools/loan-mortgage-calculator) - Estimate mortgage payments, interest, and amortization.
 - [Personal Loan EMI Calculator](https://dailytoolkit.app/tools/personal-loan-emi-calculator) - Calculate EMI and interest for a personal loan.
+- [Rerivo 13-Week Cash Flow Calculator](https://rerivo.com/tools/13-week-cash-flow-calculator/) - Build a rolling 13-week cash forecast with actuals, receipt-delay stress testing, and CSV export.
+- [Rerivo Field-Service Proposal Calculator](https://rerivo.com/tools/field-service-proposal-calculator/) - Calculate burdened crew labor, true margin vs. markup, and Good/Better/Best client quotes.
+- [Rerivo TikTok Shop & Multi-Channel Fee Calculator](https://rerivo.com/tools/tiktok-shop-fee-calculator/) - Compare TikTok Shop referral + creator affiliate fees, Etsy Offsite Ads, and Shopify payouts side by side.
+- [Rerivo US Tariff & Landed Cost Calculator](https://rerivo.com/tools/tariff-landed-cost-calculator/) - Calculate stacked US tariffs (MFN, Section 301, reciprocal), CBP MPF, brokerage, and fee-on-tariff retail repricing.
 - [Shift Roster & Pay Platform](https://shiftrosterpay.com/) - Plan shifts and estimate monthly earnings in the browser.
 - [SmartBizCalc](https://smartbizcalc.com) - Use business calculators for payroll, tax, break-even, startup costs, and pricing.
 - [Stock Average Calculator](https://stockavg.com/) - Calculate cost basis and average share price.
